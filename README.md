@@ -1,23 +1,23 @@
-# Carl Castillo | Portfolio Website
+# Carl Castillo – Portfolio Website
 
-Welcome to the source code for my personal portfolio site — a space where I share my professional journey, skills, and aspirations as I continue bridging people, products, and solutions.
+This repository hosts my personal portfolio site, built with GitHub Pages.
 
-## 🌐 Live Site
-View the site here: [carlcastillo.github.io](https://carlcastillo.github.io)
+##  Live Site
+Visit: [carlcastillo.github.io](https://carlcastillo.github.io)
 
-## 💡 About
-I’m a connector by nature — someone who thrives on building meaningful relationships between people, technology, and ideas. With 8+ years of experience in sales, marketing, and engineering, I’m now diving deeper into cybersecurity and tech advocacy.
+##  About
+I’m a connector—a professional who bridges people, products, and purpose. With 8+ years across sales, engineering, and SaaS, I’m now venturing into cybersecurity.
 
-## 🛠️ Built With
+##  Built with
 - HTML & CSS
 - GitHub Pages
-- VSCode
 
-## 🧩 Sections Included
-- About Me
-- My Journey
-- Skills & Tools
-- GitHub Repository Info
-- Contact Info
+## Structure
+- `index.html`: Main page
+- `README.md`: Project details
 
-## 🗂 Repository Structure
+##  Contact
+- Email: castillocarloumark.dbs@gmail.com  
+- GitHub: [CarICastillo](https://github.com/CarICastillo)
+
+Built with intention, curiosity, and good coffee.
